@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bus.booked_seats" />
+          <option value="bus.self" />
+          <option value="bus.*" />
+          <option value="siik.mysql" />
+          <option value="Flask" />
+          <option value="render_template" />
+          <option value="request" />
+          <option value="siik.send_confirmation_message" />
+          <option value="siik.cursor" />
+          <option value="siik.cnx" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
